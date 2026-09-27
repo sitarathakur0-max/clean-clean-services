@@ -1,0 +1,6 @@
+{
+  "name": "Clean Clean Services",
+  "description": "Professional residential and commercial cleaning services in Zürich, Switzerland. Located at Neunbrunnenstrasse 52, 8050 Zürich. Rated 4.9/5 from 70 Google reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
